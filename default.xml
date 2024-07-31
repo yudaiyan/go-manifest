@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote  name="origin"
+           fetch="git@github.com:yudaiyan"
+           autodotgit="true" />
+
+  <default remote="origin"
+           revision="main"
+           sync-j="8"/>
+
+
+  <project name="go-util" path="util"/>
+  <project name="go-netlink" path="netlink"/>
+  <project name="go-tap" path="tap"/>
+  <project name="go-sync" path="sync"/>
+  <project name="gonetsh" path="netsh"/>
+  <project name="go-sqlite-tool-server" path="sqlite-tool-server"/>
+  <project name="go-dhcp" path="dhcp"/>
+  <project name="go-dhcpd" path="dhcpd"/>
+</manifest>
+
