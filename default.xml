@@ -17,5 +17,6 @@
   <project name="go-sqlite-tool-server" path="sqlite-tool-server"/>
   <project name="go-dhcp" path="dhcp"/>
   <project name="go-dhcpd" path="dhcpd"/>
+  <project name="go-toolkit" path="toolkit"/>
 </manifest>
 
