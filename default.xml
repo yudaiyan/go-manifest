@@ -18,5 +18,6 @@
   <project name="go-dhcp" path="dhcp"/>
   <project name="go-dhcpd" path="dhcpd"/>
   <project name="go-toolkit" path="toolkit"/>
+  <project name="go-depgraph" path="depgraph"/>
 </manifest>
 
